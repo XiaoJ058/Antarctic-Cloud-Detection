@@ -14,7 +14,7 @@ The annotated Zhongshan Station all-sky cloud dataset and the derived cloud
 observation product are deposited in the Zenodo repository:
 
 <!-- TODO: replace with the real DOI once the Zenodo deposit is created -->
-<https://doi.org/10.5281/zenodo.XXXXXXX>
+<https://doi.org/10.5281/zenodo.23335453>
 
 The TCDD dataset used for the cross-dataset evaluation is publicly available
 (see Zhang et al. 2022, cited in the paper).
