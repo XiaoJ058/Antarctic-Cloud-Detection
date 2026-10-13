@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this code or the released data, please cite the paper listed under preferred-citation."
+title: "Antarctic-Cloud-Detection: AGCNet for Antarctic ground-based all-sky cloud segmentation and classification"
+abstract: >-
+  Official project page for AGCNet, a Solar Position Prior-guided progressive
+  refinement network for joint cloud segmentation and cloud-type classification
+  in Antarctic ground-based all-sky imagery. The associated dataset and derived
+  cloud product for Zhongshan Station, East Antarctica, are deposited on Zenodo.
+type: software
+authors:
+  - family-names: Jiang
+    given-names: Zhenghao
+  - family-names: Li
+    given-names: Yuxin
+  - family-names: Deng
+    given-names: Wanxia
+  - family-names: Liu
+    given-names: Lei
+  - family-names: Liu
+    given-names: Xichuan
+  - family-names: Zhu
+    given-names: Xiaoqian
+  - family-names: Liu
+    given-names: Li
+contact:
+  - family-names: Deng
+    given-names: Wanxia
+    email: dengwanxia14@nudt.edu.cn
+version: 0.1.0
+date-released: "2026-10-13"
+license: CC-BY-4.0
+repository-code: "https://github.com/XiaoJ058/Antarctic-Cloud-Detection"
+keywords:
+  - cloud segmentation
+  - cloud-type classification
+  - all-sky imagery
+  - Antarctica
+  - remote sensing
+  - deep learning
+preferred-citation:
+  type: article
+  title: >-
+    AGCNet: Solar Position Prior-Guided Progressive Refinement Network for
+    Antarctic Ground-Based Cloud Segmentation and Classification
+  authors:
+    - family-names: Jiang
+      given-names: Zhenghao
+    - family-names: Li
+      given-names: Yuxin
+    - family-names: Deng
+      given-names: Wanxia
+    - family-names: Liu
+      given-names: Lei
+    - family-names: Liu
+      given-names: Xichuan
+    - family-names: Zhu
+      given-names: Xiaoqian
+    - family-names: Liu
+      given-names: Li
+  journal: "GIScience & Remote Sensing"
+  year: 2026

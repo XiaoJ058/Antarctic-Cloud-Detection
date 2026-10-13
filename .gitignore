@@ -1,0 +1,61 @@
+# ---------------------------------------------------------------
+# Dataset and checkpoints are NOT distributed through this GitHub
+# repository. The dataset is deposited (with a DOI) on Zenodo.
+# Keeping these patterns here means an accidental `git add .`
+# cannot publish the imagery or the model weights.
+# ---------------------------------------------------------------
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+checkpoints/
+weights/
+runs/
+outputs/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# packaging / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# secrets
+.env
+*.pem
+*.key
